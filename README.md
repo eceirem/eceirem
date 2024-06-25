@@ -17,7 +17,7 @@ Merhaba! Ben Ece İrem Şişer. Ankara Üniversitesi Bilgisayar Mühendisliği �
 
 
 ## Programlama Dilleri
--  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/500px-The_C_Programming_Language_logo.svg.png" width="20">  :
+-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/500px-The_C_Programming_Language_logo.svg.png" width="15">  :
  Temel bilgi düzeyinde, veri yapıları ve algoritmalar konusunda deneyim
 - <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="20">  :
  Temel ve orta düzeyde bilgi, veri analizi ve scripting için kullanım
