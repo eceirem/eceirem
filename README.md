@@ -17,10 +17,14 @@ Merhaba! Ben Ece İrem Şişer. Ankara Üniversitesi Bilgisayar Mühendisliği �
 
 
 ## Programlama Dilleri
-- **C:** Temel bilgi düzeyinde, veri yapıları ve algoritmalar konusunda deneyim
-- **Python:** Temel ve orta düzeyde bilgi, veri analizi ve scripting için kullanım
-- **C#:** Temel ve orta düzeyde bilgi, web ve uygulama geliştirme konularında deneyim
-- **SQL:** İlişkisel veritabanı yönetimi, sorgular ve performans optimizasyonu konularında yetkinlik
+-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/500px-The_C_Programming_Language_logo.svg.png" width="20">  :
+ Temel bilgi düzeyinde, veri yapıları ve algoritmalar konusunda deneyim
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="20">  :
+ Temel ve orta düzeyde bilgi, veri analizi ve scripting için kullanım
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/192px-C_Sharp_Logo_2023.svg.png" width="20">  :
+Temel ve orta düzeyde bilgi, web ve uygulama geliştirme konularında deneyim
+- <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/150px-MySQL_logo.svg.png" width="20">  :
+ İlişkisel veritabanı yönetimi, sorgular ve performans optimizasyonu konularında yetkinlik
 
 ## YouTube
 - Türkçe konuşmalı ve 1. sınıf laboratuvar sorularını içeren bir YouTube oynatma listesi hazırladım. [Python](https://youtube.com/playlist?list=PLjBIWfe1orZFZ38vuOcnVsCL8h_uuQSXI&si=VXGajYaKx8j6sMgB), [C](https://youtube.com/playlist?list=PLjBIWfe1orZE0N3eBSlEwtWXItKTxpPcT&si=NTTpMMQE9h5HHl66).
