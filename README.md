@@ -13,7 +13,7 @@ Merhaba! Ben Ece İrem Şişer. 2022 girişli Ankara Üniversitesi Bilgisayar M�
 - <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="20">  :
  Temel ve orta düzeyde bilgi, veri analizi ve scripting için kullanım
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/192px-C_Sharp_Logo_2023.svg.png" width="20">  :
-Temel ve orta düzeyde bilgi, web ve uygulama geliştirme konularında deneyim
+Temel ve orta düzeyde bilgi, mvc ile web geliştirme konularında deneyim
 - <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/150px-MySQL_logo.svg.png" width="20">  :
  İlişkisel veritabanı yönetimi, sorgular ve performans optimizasyonu konularında yetkinlik
 ### İletişim
