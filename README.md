@@ -7,6 +7,10 @@ Merhaba! Ben Ece İrem Şişer. 2022 girişli Ankara Üniversitesi Bilgisayar M�
 - **Ankara Üniversitesi Bilgisayar Topluluğu**
   - Yönetim Kurulu Üyesi 
   - Techsheet teknoloji bülteninde editörlük ve yazarlık
+- **Ankara Üniversitesi Bilgi İşlem Daire Başkanlığı Yazılım Geliştirme**
+  - .NET MVC mimarisi ile web geliştirme
+  - Yazılım testi
+  - Raporlama ve gerekli yönergeleri oluşturma
 - **Ankara Üniversitesi Laboratuvar Asistanlığı**
   - Laboratuvar sınavları esnasında öğrencilere mentörlük (soru akışı, gerekli algoritma oluşturulması, debug ve error yorumları vs.)
   -  YouTube'da laboratuvar sınavları çözüm videoları:   [Python](https://youtube.com/playlist?list=PLjBIWfe1orZFZ38vuOcnVsCL8h_uuQSXI&si=VXGajYaKx8j6sMgB), [C](https://youtube.com/playlist?list=PLjBIWfe1orZE0N3eBSlEwtWXItKTxpPcT&si=NTTpMMQE9h5HHl66).
