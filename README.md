@@ -1,5 +1,5 @@
 ### Hakkımda
-Merhaba! Ben Ece İrem Şişer. 2022 girişli Ankara Üniversitesi Bilgisayar Mühendisliği öğrencisiyim ve bilgisayar bilimlerine büyük bir ilgi duyuyorum. Ortalamam: 3.61. Gelecekte veritabanı yöneticisi olarak çalışmayı hedefliyorum ve hayatım boyunca yapay zeka ve veri bilimi alanlarında ilerlemek istiyorum. Ayrıca popüler bilimi takip ediyor ve biyomedikal alanlarda projeler yaparak bu alandaki yeniliklere katkıda bulunmayı planlıyorum.
+Merhaba! Ben Ece İrem Şişer. 2022 girişli Ankara Üniversitesi Bilgisayar Mühendisliği öğrencisiyim ve bilgisayar bilimlerine büyük bir ilgi duyuyorum. Ortalamam: 3.58. Gelecekte akademisyen olmayı hedefliyorum ve hayatım boyunca yapay zeka ve veri bilimi alanlarında ilerlemek istiyorum. Ayrıca popüler bilimi takip ediyor ve biyomedikal alanlarda projeler yaparak bu alandaki yeniliklere katkıda bulunmayı planlıyorum.
 ### Deneyim
 - **Ankara Üniversitesi IEEE Computer Society**
   - Başkan Yardımcılığı
@@ -24,4 +24,4 @@ Temel ve orta düzeyde bilgi, mvc ile web geliştirme konularında deneyim
 - <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/150px-MySQL_logo.svg.png" width="20">  :
  İlişkisel veritabanı yönetimi, sorgular ve performans optimizasyonu konularında yetkinlik
 ### İletişim
-Projelerimi keşfetmek ve işbirliği veya sorular için [LinkedIn](https://www.linkedin.com/in/ece-irem-şişer/) üzerinden benimle iletişime geçebilirsiniz. Deposumu ziyaret ettiğiniz için teşekkür ederim!
+Projelerimi keşfetmek ve işbirliği veya sorular için [LinkedIn](https://www.linkedin.com/in/ece-irem-şişer/) üzerinden benimle iletişime geçebilirsiniz.
