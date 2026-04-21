@@ -1,5 +1,5 @@
 ### Hakkımda
-Merhaba! Ben Ece İrem Şişer. 2022 girişli Ankara Üniversitesi Bilgisayar Mühendisliği öğrencisiyim ve bilgisayar bilimlerine büyük bir ilgi duyuyorum. Ortalamam: 3.58. Gelecekte akademisyen olmayı hedefliyorum ve hayatım boyunca yapay zeka ve veri bilimi alanlarında ilerlemek istiyorum. Ayrıca popüler bilimi takip ediyor ve biyomedikal alanlarda projeler yaparak bu alandaki yeniliklere katkıda bulunmayı planlıyorum.
+Merhaba! Ben Ece İrem Şişer. 2022 girişli Ankara Üniversitesi Bilgisayar Mühendisliği öğrencisiyim ve bilgisayar bilimlerine büyük bir ilgi duyuyorum. Ortalamam: 3.70. Gelecekte akademisyen olmayı hedefliyorum ve hayatım boyunca yapay zeka ve veri bilimi alanlarında ilerlemek istiyorum. Ayrıca popüler bilimi takip ediyor ve biyomedikal alanlarda projeler yaparak bu alandaki yeniliklere katkıda bulunmayı planlıyorum.
 ### Deneyim
 - **HAVELSAN**
     -Stajyer (Test Otomasyonu Takımı)
